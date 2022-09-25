@@ -1,0 +1,65 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background-color: black;
+   }
+body{
+    margin: 0;
+}
+.register{
+    width: 460px;
+    height: 100vh;
+    text-align: left;
+    margin: 0 auto;
+}
+.title{
+    background-color: rgb(183, 214, 232);
+    height: 10%;
+    text-align: center;
+}
+h1{
+    font-size: 28px;
+    font-weight: 100;
+    padding: 15px 0 0;
+}
+form{
+    height: 90%;
+    background-image: linear-gradient(to bottom left,rgb(147,189,213), rgb(183,214,232));
+    padding:  10px;
+    font-size: 20px;
+
+}
+label{
+    padding: 20px 0;    
+}
+input{
+    width: 100%;
+    padding: 15px 0;
+    margin: 3px 0 10px;
+    color: black;
+    border: none;
+    border-radius: 7px;
+}
+p{
+    text-align: right;
+}
+#rst{
+    width: 140px;
+    background-color: rgb(109, 183, 213);
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 12px 0;
+}
+#sbmt{
+    width: 140px;
+    background-color: rgb(49, 146, 187);
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 12px 0;
+}
